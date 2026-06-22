@@ -108,7 +108,7 @@ Retorna todos os registros salvos, ordenados do mais recente para o mais antigo.
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/recife-equipamentos-backend.git
+git clone https://github.com/camilapessoaos/EquipamentosPublicos-backend.git 
 cd recife-equipamentos-backend
 ```
 
